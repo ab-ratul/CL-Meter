@@ -1,12 +1,10 @@
-<img width="200" height="200" alt="clmeter_icon" src="https://github.com/user-attachments/assets/c009666f-6e48-4e1a-bf78-1a088b55ce8c" />
-
 # 🚀 CL Meter (CheckLog Network Speed Meter for Windows 11)
+![Total Downloads](https://img.shields.io/github/downloads/ab-ratul/CL-Meter/total.svg)
 
 **Version:** 1.0  
-**Developer:** Ali Burhan Ratul  (CheckLog IT)
+**Developer:** Ali Burhan Ratul  (CheckLog IT)  
 **License:** Freeware (Proprietary)
 
-![Total Downloads](https://img.shields.io/github/downloads/ab-ratul/CL-Meter/total.svg)
 
 
 <img width="173" height="57" alt="image" src="https://github.com/user-attachments/assets/cd58b912-5abd-4fcd-80b4-7b605e0da93b" />
