@@ -1,6 +1,6 @@
 <img width="200" height="200" alt="clmeter_icon" src="https://github.com/user-attachments/assets/c009666f-6e48-4e1a-bf78-1a088b55ce8c" />
 
-# 🚀 CL Meter (CheckLog Speed Meter)
+# 🚀 CL Meter (CheckLog Network Speed Meter for Windows 11)
 
 **Version:** 1.0  
 **Developer:** Ali Burhan Ratul  (CheckLog IT)
