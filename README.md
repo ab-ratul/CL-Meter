@@ -4,9 +4,7 @@
 **Developer:** Ali Burhan Ratul  (CheckLog IT)
 **License:** Freeware (Proprietary)
 
-![CL Meter Icon](<img width="185" height="58" alt="image" src="https://github.com/user-attachments/assets/3fa97f0b-a0ac-4d6f-9838-2bdbb62f6869" />
-<img width="185" height="58" alt="image" src="https://github.com/user-attachments/assets/3fa97f0b-a0ac-4d6f-9838-2bdbb62f6869" />
-)  
+![CL Meter Icon](<img width="185" height="58" alt="image" src="https://github.com/user-attachments/assets/3fa97f0b-a0ac-4d6f-9838-2bdbb62f6869" />)  
 
 ## 📖 Overview
 **CL Meter** is a lightweight, fully customizable network speed monitor designed for especially Windows 11 as Microsoft removed the native "Taskbar Toolbars" API which restricts alternative speed meter intigration in the taskbar. It floats seamlessly on your taskbar, providing real-time Download and Upload speeds without cluttering your workspace.
