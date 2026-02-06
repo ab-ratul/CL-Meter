@@ -6,7 +6,7 @@
 **Developer:** Ali Burhan Ratul  (CheckLog IT)
 **License:** Freeware (Proprietary)
 
-![Total Downloads](https://img.shields.io/github/downloads/AliBurhanRatul/CL-Meter/total.svg)
+![Total Downloads](https://img.shields.io/github/downloads/ab-ratul/CL-Meter/total.svg)
 
 
 <img width="173" height="57" alt="image" src="https://github.com/user-attachments/assets/cd58b912-5abd-4fcd-80b4-7b605e0da93b" />
