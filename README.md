@@ -9,6 +9,8 @@
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/ab-ratul/CL-Meter?style=social)
 ![Downloads](https://img.shields.io/github/downloads/ab-ratul/CL-Meter/total?label=Total%20Downloads&color=success)
+![Total Downloads](https://img.shields.io/github/downloads/ab-ratul/CL-Meter/total?style=for-the-badge&color=success&cacheSeconds=60)
+![Latest Downloads](https://img.shields.io/github/downloads/ab-ratul/CL-Meter/latest/total?style=for-the-badge&color=blue&cacheSeconds=60)
 [![Download Now](https://img.shields.io/badge/Download-Now-success?style=for-the-badge&logo=windows)](https://github.com/ab-ratul/CL-Meter/releases/latest)
 
 
