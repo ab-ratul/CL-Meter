@@ -2,23 +2,22 @@
 
 
 ![Version](https://img.shields.io/github/v/release/ab-ratul/CL-Meter?label=Version&color=blue)
+![Downloads](https://img.shields.io/github/downloads/ab-ratul/CL-Meter/total?label=Total%20Downloads&color=success)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078d7?logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-Freeware-green)
 ![Repo Size](https://img.shields.io/github/repo-size/ab-ratul/CL-Meter?color=orange)
 ![Last Commit](https://img.shields.io/github/last-commit/ab-ratul/CL-Meter)
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078d7?logo=windows&logoColor=white)
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/ab-ratul/CL-Meter?style=social)
-![Downloads](https://img.shields.io/github/downloads/ab-ratul/CL-Meter/total?label=Total%20Downloads&color=success)
-![Total Downloads](https://img.shields.io/github/downloads/ab-ratul/CL-Meter/total?style=for-the-badge&color=success&cacheSeconds=60)
-![Latest Downloads](https://img.shields.io/github/downloads/ab-ratul/CL-Meter/latest/total?style=for-the-badge&color=blue&cacheSeconds=60)
+![File Size](https://img.shields.io/badge/File_Size-33_MB-blue?style=for-the-badge)
 [![Download Now](https://img.shields.io/badge/Download-Now-success?style=for-the-badge&logo=windows)](https://github.com/ab-ratul/CL-Meter/releases/latest)
 
 
 **Version:** 1.0  
 **Developer:** Ali Burhan Ratul  (CheckLog IT)  
-**License:** Freeware (Proprietary)
+**License:** Freeware (Proprietary)  
 
-
+  
 
 <img width="173" height="57" alt="image" src="https://github.com/user-attachments/assets/cd58b912-5abd-4fcd-80b4-7b605e0da93b" />
 
